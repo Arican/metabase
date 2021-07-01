@@ -26,7 +26,7 @@ Collections have a list of any other items that are saved within them, and you c
 
 Dashboards are a set of questions and text cards that you want to be able to refer back to regularly. [Learn more about dashboards](07-dashboards.md).
 
-If you click on a part of a chart, such as a bar in a bar chart, or a dot on a line chart, you'll see a the **Action menu**, with actions you can take to dive deeper into that result, branch off from it in a different direction, or create an [X-ray](14-x-rays.md) to see an automatic exploration of the data.
+If you click on a part of a chart, such as a bar in a bar chart, or a dot on a line chart, you'll see the **Action menu**, with actions you can take to dive deeper into that result, branch off from it in a different direction, or create an [X-ray](14-x-rays.md) to see an automatic exploration of the data.
 ![Drill through](images/drill-through/drill-through.png)
 
 In this example of orders by product category over time, clicking on a dot on this line chart gives us the ability to:
